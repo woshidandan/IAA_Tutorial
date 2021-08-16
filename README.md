@@ -31,4 +31,5 @@
 * 能够满足深度学习前期代码运行的服务器：[Google colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
 上述只是一些基础的材料，能确保你迅速掌握相关的概念和工具，后续的深层次学习我们将提供更多有价值的idea和资源
+
 如需服务器资源训练，请联系我本人
