@@ -29,6 +29,16 @@
 * 推荐论文追溯工具：[connectedpapers](https://www.connectedpapers.com/)
 * 推荐论文开源代码查找网站：[GitHub](https://github.com/)，[Paperswithcode](https://paperswithcode.com/)
 * 能够满足深度学习前期代码运行的服务器：[Google colab](https://colab.research.google.com/notebooks/intro.ipynb)
+* 【可选】请加入我们内部的企业微信，每周提交一次周报，企业微信要求码可以联系我本人，提交周报流程如下：
+<div align=center>
+<img width="500" src="Co_IAA1.png" alt="封面"/>
+</div>
+<div align=center>
+<img width="500" src="Co_IAA3.png" alt="封面"/>
+</div>
+<div align=center>
+<img width="500" src="Co_IAA4.png" alt="封面"/>
+</div>
 
 上述只是一些基础的材料，能确保你迅速掌握相关的概念和工具，后续的深层次学习我们将提供更多有价值的idea和资源
 
