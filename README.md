@@ -18,7 +18,7 @@
 
 ## 核心文章
 #### 推荐阅读
-+ "*图像美学质量评价调研报告.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/3730767)
++ "*图像美学质量评价调研报告.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/37307679)
 + "*这些年，计算机美学的发展.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/91516029)
 + Naila Murray, Luca Marchesotti, Florent Perronnin: "*AVA: A large-scale database for aesthetic visual analysis.*" CVPR (2012) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6247954)
 + Hossein Talebi and Peyman Milanfar: "*NIMA: Neural image assessment.*" TIP (2018) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352823) [[code]](https://paperswithcode.com/paper/nima-neural-image-assessment#code)
