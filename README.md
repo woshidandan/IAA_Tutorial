@@ -23,21 +23,20 @@
 + Hossein Talebi and Peyman Milanfar: "*NIMA: Neural image assessment.*" TIP (2018) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352823) [[code]](https://paperswithcode.com/paper/nima-neural-image-assessment#code)
 + Aydın, Tunç Ozan, Aljoscha Smolic, and Markus Gross: "*Automated aesthetic analysis of photographic images.*" IEEE T VIS COMPUT GR (2014) [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.675.3491&rep=rep1&type=pdf).
 
-## 深度学习基础知识
-### 理论知识
+## 理论知识
 + "*李宏毅机器学习课程.*" 哔哩哔哩 [[link]](https://www.bilibili.com/video/BV1JE411g7XF?from=search&seid=16114573361443816126)
-### 动手实践
+
+## 动手实践
 + "*动手学深度学习(PyTorch版).*" GitHub [[link]](https://tangshusen.me/Dive-into-DL-PyTorch/#/)
 + "*深度学习框架PyTorch：入门与实践.*" GitHub [[link]](https://github.com/chenyuntc/pytorch-book)
 
-### 其它工具
+## 其它工具
 + "*Mendeley.*" 论文整理工具 [[link]](https://zhuanlan.zhihu.com/p/28762628)
 + "*connectedpapers.*" 论文追溯工具 [[link]](https://www.connectedpapers.com/)
 + "*Paperswithcode.*" 论文代码查找工具 [[link]](https://paperswithcode.com/)
 + "*Google colab.*" 免费GPU平台，如额外需服务器资源，请联系我本人 [[link]](https://colab.research.google.com/notebooks/intro.ipynb)
 
-
-### 可选
+## 可选
 如你希望与我们的交流更紧密，请加入我们内部的企业微信，每周提交一次周报，企业微信【邀请码】可以联系我本人获取，提交周报流程如下：
 <div align=center>
 <img width="500" src="Co_IAA1.png" alt="封面"/>
