@@ -31,7 +31,7 @@
 + "*深度学习框架PyTorch：入门与实践.*" GitHub [[link]](https://github.com/chenyuntc/pytorch-book)
 
 ## 其它工具
-+ "*Mendeley.*" 论文整理工具 [[link]](https://zhuanlan.zhihu.com/p/28762628)
++ "*Zotero.*" 论文整理工具 [[link]](https://www.zotero.org/)
 + "*connectedpapers.*" 论文追溯工具 [[link]](https://www.connectedpapers.com/)
 + "*Paperswithcode.*" 论文代码查找工具 [[link]](https://paperswithcode.com/)
 + "*Google colab.*" 免费GPU平台，如额外需服务器资源，请联系我本人 [[link]](https://colab.research.google.com/notebooks/intro.ipynb)
