@@ -1,9 +1,5 @@
 实验室内部美学课题组入门学习材料
 ===============================
-https://user-images.githubusercontent.com/15050507/161776631-2b5948f3-97b6-4419-b0b3-efa5308eb116.mp4
-
-https://user-images.githubusercontent.com/15050507/161776648-11426f17-8ef1-43ac-9a8a-5782cb32b2e2.mp4
-
 前言：为了帮助同学，更快的了解和融入图像美学课题，找到属于自己的研究方向，特拟该资料。
 
 ## 项目组成员
@@ -43,5 +39,7 @@ https://user-images.githubusercontent.com/15050507/161776648-11426f17-8ef1-43ac-
 + 组会安排：周一，课题组内所有人参加线上/线下组会；周三，提交周报；周四，项目内部线上组会/组外同学组会；周五，项目外部线上组会
 + 学习时间安排：周一至周五白天，9:00-11:30，2:30-5:30，周日至周四晚上，7:30-10:00，该时间为组内成员正常在实验室学习时间，其余时间不做要求
 
+https://user-images.githubusercontent.com/15050507/161776631-2b5948f3-97b6-4419-b0b3-efa5308eb116.mp4
 
+https://user-images.githubusercontent.com/15050507/161776648-11426f17-8ef1-43ac-9a8a-5782cb32b2e2.mp4
 
