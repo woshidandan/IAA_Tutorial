@@ -1,5 +1,8 @@
 实验室内部美学课题组入门学习材料
 ===============================
+https://user-images.githubusercontent.com/15050507/161776631-2b5948f3-97b6-4419-b0b3-efa5308eb116.mp4
+
+https://user-images.githubusercontent.com/15050507/161776648-11426f17-8ef1-43ac-9a8a-5782cb32b2e2.mp4
 
 前言：为了帮助同学，更快的了解和融入图像美学课题，找到属于自己的研究方向，特拟该资料。
 
