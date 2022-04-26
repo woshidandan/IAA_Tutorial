@@ -40,7 +40,7 @@
 + "*Zotero.*" 论文整理工具 [[link]](https://www.zotero.org/)
 + "*connectedpapers.*" 论文追溯工具 [[link]](https://www.connectedpapers.com/)
 + "*Paperswithcode.*" 论文代码查找工具 [[link]](https://paperswithcode.com/)
-+ "*Google colab.*" 免费GPU平台，如额外需服务器资源，请联系我本人 [[link]](https://colab.research.google.com/notebooks/intro.ipynb)
++ "*Google colab.*" 免费线上GPU平台，如额外需要线下服务器资源，请联系我本人 [[link]](https://colab.research.google.com/notebooks/intro.ipynb)
 
 ## 组会和学习时间安排
 + 组会安排：周一，课题组内所有人参加线上/线下组会，主要分享上一周科研进度和论文写作情况，无老师参加；周四，项目内部线上组会，组外同学可以选择性参加，主要讨论和合作方公司汇报的内容，有老师参加；周五，项目外部线上组会，不需要组外同学参会，主要和合作方汇报一周进展。
