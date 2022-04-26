@@ -19,10 +19,10 @@
 | 清晰度评估    |    对图像清晰度进行评分   |     图像处理、图像增强等     |      姜东翔（研一）     |
 
 ## 入门文章
-* 组内已投中顶会顶刊：
+组内已投中顶会顶刊：
 + Shuai He, Yongchang Zhang, Dongxiang Jiang, Rui Xie, Anlong Ming*: "Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks.", IJCAI 2022, 人工智能领域顶会.
 
-* 其它资料：
+其它资料：
 + "*图像美学质量评价调研报告.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/37307679)
 + "*这些年，计算机美学的发展.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/91516029)
 + Naila Murray, Luca Marchesotti, Florent Perronnin: "*AVA: A large-scale database for aesthetic visual analysis.*" CVPR (2012) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6247954)
