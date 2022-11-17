@@ -9,14 +9,14 @@
 
 | 方向       | 描述     | 可能技术 | 目前人员     |
 | :-----------: | :--------: | :--------: | :--------: |
-| 图像整体美学评估    |    对图像整体美感进行评分，属于基础研究    |     图像处理、自监督学习、多任务等     |      何帅（博二，带队），刘立敏&谢睿（组内本科生准研究生），李雅琪（组外本科生）     |
-| 对焦评估    |    对图像对焦进行评分，能用于智能对焦    |     图像处理、显著性检测等     |      张永昌（博一）     |
-| 构图评估    |    对图像构图进行评分，能用于自动裁剪和构图    |     图像处理、图像增强、显著性检测等     |      高有江（研三）     |
-| 色彩评估    |    对图像色彩进行评分，评估色彩的和谐性    |     图像处理、多任务等     |      李嘉龙（研三）     |
-| 曝光评估    |    对图像曝光进行评分，能用于曝光纠正    |     图像处理、GAN等     |      张志宇（研二）     |
-| 噪声评估    |    对图像噪声进行评分，能用于去噪    |     图像处理、去噪等     |      肖鹏翔（研二）     |
-| 伪像评估    |    对图像伪像进行评分   |     图像处理、图像增强等     |      衡德康（研一）     |
-| 清晰度评估    |    对图像清晰度进行评分   |     图像处理、图像增强等     |      姜东翔（研一）     |
+| 图像整体美学评估    |    对图像整体美感进行评分，属于基础研究    |     图像处理、自监督学习、多任务等     |      何帅（博三，带队），刘立敏&谢睿（研一），张顺天（大三）     |
+| 对焦评估    |    对图像对焦进行评分，能用于智能对焦    |     图像处理、显著性检测等     |      张永昌（博二）     |
+| 构图评估    |    对图像构图进行评分，能用于自动裁剪和构图    |     图像处理、图像增强、显著性检测等     |      高有江（已毕业）     |
+| 色彩评估    |    对图像色彩进行评分，评估色彩的和谐性    |     图像处理、多任务等     |      李嘉龙（已毕业），李雅琪（大四）     |
+| 曝光评估    |    对图像曝光进行评分，能用于曝光纠正    |     图像处理、GAN等     |      张志宇（研三）     |
+| 噪声评估    |    对图像噪声进行评分，能用于去噪    |     图像处理、去噪等     |      肖鹏翔（研三）     |
+| 伪像评估    |    对图像伪像进行评分   |     图像处理、图像增强等     |      衡德康（研二）     |
+| 清晰度评估    |    对图像清晰度进行评分   |     图像处理、图像增强等     |      姜东翔（研二）     |
 
 ## 入门文章
 组内已投中顶会顶刊：
@@ -28,6 +28,28 @@
 + Naila Murray, Luca Marchesotti, Florent Perronnin: "*AVA: A large-scale database for aesthetic visual analysis.*" CVPR (2012) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6247954)
 + Hossein Talebi and Peyman Milanfar: "*NIMA: Neural image assessment.*" TIP (2018) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352823) [[code]](https://paperswithcode.com/paper/nima-neural-image-assessment#code)
 + Aydın, Tunç Ozan, Aljoscha Smolic, and Markus Gross: "*Automated aesthetic analysis of photographic images.*" IEEE T VIS COMPUT GR (2014) [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.675.3491&rep=rep1&type=pdf).
+
+
+可用数据集
+--------------
+各类美学数据集大全，[点击链接](https://grappaproject.eu/databases/image_datasets/)
+
+| 数据集名称  | 数据集描述  | 数据集规模    |   作用   | 链接|
+| :-----------: | :--------: | :--------: | :--------: | :--------: |
+| AVA★★★★★     |     人类对于图片进行1-10分的打分      |      255,500张图像    |      训练基础的美学模型     |     [链接](https://github.com/mtobeiyf/ava_downloader?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
+| DPChallenge.com     |     人类对于图片进行1-10分的打分      |      16,509张图像    |      训练基础的美学模型     |      [链接](https://ritendra.weebly.com/aesthetics-datasets.html?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
+| photo.net     |     人类对于图片进行1-10分的打分      |      20,278张图像    |      训练基础的美学模型     |      [链接](https://ritendra.weebly.com/aesthetics-datasets.html?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
+| TID2013★★★★★     |     人类对于多种处理后的失真图片进行1-10打分      |      25×24张照片，25张参考图像，24个失真类型    |      美学因素，图像质量客观评价因素     |      [链接 提取码: 9oc4](https://pan.baidu.com/s/1oj7tRDppmHV8DeCEuJNcJg)     |
+| LIVE 提取码: g2sh  解压密码为：livedatabase2005  |     人类对于多种处理后的失真图片进行1-10打分      |      29×5张照片，29张参考图像，5个失真类型    |      美学因素，图像质量客观评价因素     |      [链接](https://pan.baidu.com/s/1gVcaWpIX9m8zER4XeWow9g)     |
+| MLIVE     |     人类对于多种处理后的失真图片进行1-10打分      |      15×15张照片，15张参考图像，15个失真类型    |      美学因素，图像质量客观评价因素     |      [链接](http://live.ece.utexas.edu/research/quality/live_multidistortedimage.html?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
+| WATERLOO     |     人类对于多种处理后的失真图片进行1-10打分      |      4744张参考图像, 20个失真类型    |      美学因素，图像质量客观评价因素     |      [链接](https://ece.uwaterloo.ca/~k29ma/exploration/?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
+| flickr★★★★★     |     很多摄像师拍的照片，还附有相机参数和一些关键字评论      |      无数张？可以自己爬下来    |      美学因素，图像质量客观评价因素     |      [链接](https://www.flickr.com/)     |
+| AADB★★★ | 包含11种摄影属性,5个人的平均评分 | 10000张图像 ,  8500 张训练，500 验证，1000 测试 | 评价美学维度 | [链接](https://drive.google.com/open?id=1Viswtzb77vqqaaICAQz9iuZ8OEYCu6-_) |
+| PCCD | 有人对图像的评论和7个维度的评分 | 4,235张照片，29,645评论 | 评价美学维度、美学因素 | 链接？ |
+| DPC- Captions | 5个维度的评分 | 154,384 images and 2,427,483 comments | 评价美学维度、美学因素 | 链接？ |
+| KonIQ-10k★★★ | 包含总分、Brightness、Colorfulness、Contrast、Sharpness | 10,073张图像 | 评价美学维度 | [链接](http://database.mmsp-kn.de/koniq-10k-database.html) |
+| CUHKPQ | 只包含好照片和不好照片，但是细分为动物，建筑等很多类 | 28,410张图像 | 评价美学维度 | [链接](http://mmlab.ie.cuhk.edu.hk/archive/CUHKPQ/Dataset.htm) |
+| TAD66K | 自建数据集，按主题标注，分为47个主题 | 66000张图像 | 整体美学评分 | [链接](https://drive.google.com/drive/folders/1b2D9LeeG5XZzhEa8ldnIZjGh0IHadHhU) |
 
 ## 理论知识
 + "*李宏毅机器学习课程.*" 哔哩哔哩 [[link]](https://www.bilibili.com/video/BV1JE411g7XF?from=search&seid=16114573361443816126)
@@ -46,34 +68,7 @@
 + 组会安排：周一，课题组内所有人参加线上/线下组会，主要分享上一周科研进度和论文写作情况，无老师参加；周四，项目内部线上组会，组外同学可以选择性参加，主要讨论和合作方公司汇报的内容，有老师参加；周五，项目外部线上组会，不需要组外同学参会，主要和合作方汇报一周进展。
 + 组内同学学习时间要求：周一至周五白天，9:00-11:30，2:30-5:30，周日至周四晚上，7:30-10:00，该时间为组内成员正常在实验室学习时间，其余时间不做要求
 
-可用数据集
---------------
-各类美学数据集大全，[点击链接](https://grappaproject.eu/databases/image_datasets/)
 
-| 数据集名称  | 数据集描述  | 数据集规模    |   作用   | 链接|
-| :-----------: | :--------: | :--------: | :--------: | :--------: |
-| AVA★★★★★     |     人类对于图片进行1-10分的打分      |      255,500张图像    |      训练基础的美学模型     |     [链接](https://github.com/mtobeiyf/ava_downloader?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
-| DPChallenge.com     |     人类对于图片进行1-10分的打分      |      16,509张图像    |      训练基础的美学模型     |      [链接](https://ritendra.weebly.com/aesthetics-datasets.html?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
-| photo.net     |     人类对于图片进行1-10分的打分      |      20,278张图像    |      训练基础的美学模型     |      [链接](https://ritendra.weebly.com/aesthetics-datasets.html?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
-| TID2013★★★★★     |     人类对于多种处理后的失真图片进行1-10打分      |      25×24张照片，25张参考图像，24个失真类型    |      美学因素，图像质量客观评价因素     |      [链接](http://www.ponomarenko.info/tid2013.htm?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
-| LIVE     |     人类对于多种处理后的失真图片进行1-10打分      |      29×5张照片，29张参考图像，5个失真类型    |      美学因素，图像质量客观评价因素     |      [链接](http://live.ece.utexas.edu/research/quality/subjective.htm?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
-| MLIVE     |     人类对于多种处理后的失真图片进行1-10打分      |      15×15张照片，15张参考图像，15个失真类型    |      美学因素，图像质量客观评价因素     |      [链接](http://live.ece.utexas.edu/research/quality/live_multidistortedimage.html?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
-| WATERLOO     |     人类对于多种处理后的失真图片进行1-10打分      |      4744张参考图像, 20个失真类型    |      美学因素，图像质量客观评价因素     |      [链接](https://ece.uwaterloo.ca/~k29ma/exploration/?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
-| flickr★★★★★     |     很多摄像师拍的照片，还附有相机参数和一些关键字评论      |      无数张？可以自己爬下来    |      美学因素，图像质量客观评价因素     |      [链接](https://www.flickr.com/)     |
-| AADB★★★ | 包含11种摄影属性,5个人的平均评分 | 10000张图像 ,  8500 张训练，500 验证，1000 测试 | 评价美学维度 | [链接](https://drive.google.com/open?id=1Viswtzb77vqqaaICAQz9iuZ8OEYCu6-_) |
-| PCCD | 有人对图像的评论和7个维度的评分 | 4,235张照片，29,645评论 | 评价美学维度、美学因素 | 链接？ |
-| DPC- Captions | 5个维度的评分 | 154,384 images and 2,427,483 comments | 评价美学维度、美学因素 | 链接？ |
-| KonIQ-10k★★★ | 包含总分、Brightness、Colorfulness、Contrast、Sharpness | 10,073张图像 | 评价美学维度 | [链接](http://database.mmsp-kn.de/koniq-10k-database.html) |
-| CUHKPQ | 只包含好照片和不好照片，但是细分为动物，建筑等很多类 | 28,410张图像 | 评价美学维度 | [链接](http://mmlab.ie.cuhk.edu.hk/archive/CUHKPQ/Dataset.htm) |
-
-（tid的链接好像失效了，可以用下面的 
-TID2013数据集：
-百度网盘：
-链接: https://pan.baidu.com/s/1oj7tRDppmHV8DeCEuJNcJg 提取码: 9oc4
-LIVE2005数据集：
-百度网盘：
-链接: https://pan.baidu.com/s/1gVcaWpIX9m8zER4XeWow9g 提取码: g2sh
-数据下载后需要进行解压，解压密码为：livedatabase2005）
 
 https://user-images.githubusercontent.com/15050507/161776631-2b5948f3-97b6-4419-b0b3-efa5308eb116.mp4
 
