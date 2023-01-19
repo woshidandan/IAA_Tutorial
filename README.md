@@ -21,6 +21,7 @@
 ## 入门文章
 组内已投中顶会顶刊：
 + Shuai He, Yongchang Zhang, Dongxiang Jiang, Rui Xie, Anlong Ming*: "Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks.", IJCAI 2022, 人工智能领域顶会.
++ 在投4篇
 
 其它资料：
 + "*图像美学质量评价调研报告.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/37307679)
