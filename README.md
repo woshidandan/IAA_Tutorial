@@ -31,7 +31,7 @@
 + Aydın, Tunç Ozan, Aljoscha Smolic, and Markus Gross: "*Automated aesthetic analysis of photographic images.*" IEEE T VIS COMPUT GR (2014) [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.675.3491&rep=rep1&type=pdf).
 
 
-可用数据集
+部分数据集展示（其它数据集在组内的固态硬盘，组内同学可联系我下载）
 --------------
 各类美学数据集大全，[点击链接](https://grappaproject.eu/databases/image_datasets/)
 
