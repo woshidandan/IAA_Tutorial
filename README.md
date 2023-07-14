@@ -2,6 +2,7 @@
 ===============================
 
 ## 最新动态
+* 2023年7月14日，实验室一篇图像色彩评估论文，被顶会ICCV录用
 * 2023年6月1日，实验室公费组织同学去环球影城游玩
 
 ## 课题成立时间
@@ -28,6 +29,7 @@
 
 ## 入门文章
 组内已投中顶会顶刊：
++ "Delegate Transformer for Image Color Aesthetics Assessment", ICCV2023,信息稍后补全
 + Shuai He, Yongchang Zhang, Dongxiang Jiang, Rui Xie, Anlong Ming*: "Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks.", [[pdf]](https://www.ijcai.org/proceedings/2022/0132.pdf) [[code]](https://github.com/woshidandan/TANet) IJCAI 2022, 人工智能领域顶会.
 + 在投4篇
 
