@@ -7,8 +7,7 @@
 * 2023年6月1日，实验室公费组织同学去环球影城游玩；
 
 ## 课题介绍
-![课题介绍](https://github.com/woshidandan/IAA_Tutorial/assets/15050507/aeaeafcf-da34-4102-b3c9-5085e22ff189)
-
+![课题简介](https://github.com/woshidandan/IAA_Tutorial/assets/15050507/1ff2cf92-0555-418e-8d04-0c1588c480dd)
 
 ## 课题组现有成员
 目前在读学生为12人，构成比例为6本科生（包含准研究生）+5研究生+1博士生
