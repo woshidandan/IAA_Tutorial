@@ -17,10 +17,12 @@
 * 小米
 * 中兴
 
+https://github.com/woshidandan/Image-Color-Aesthetics-Assessment
+
 ## 入门文章
 组内已投中顶会顶刊：
 + "Metadata for image aesthetics assessment with aesthetic attributes in mobile terminal computational photography system"，ITU国际标准（国际三大标准组织之一）
-+ "Delegate Transformer for Image Color Aesthetics Assessment", ICCV2023,信息稍后补全
++ "Delegate Transformer for Image Color Aesthetics Assessment", [[pdf]]([https://www.ijcai.org/proceedings/2022/0132.pdf](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment/blob/main/Delegate%20Transformer%20for%20Image%20Color%20Aesthetics%20Assessment.pdf)) [[code]]([https://github.com/woshidandan/TANet](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment)) ICCV2023,信息稍后补全
 + Shuai He, Yongchang Zhang, Dongxiang Jiang, Rui Xie, Anlong Ming*: "Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks.", [[pdf]](https://www.ijcai.org/proceedings/2022/0132.pdf) [[code]](https://github.com/woshidandan/TANet) IJCAI 2022, 人工智能领域顶会.
 + 在投4篇
 
