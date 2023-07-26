@@ -2,8 +2,9 @@
 ===============================
 
 ## 最新动态
+* 2023年7月26日，实验室一篇图像美学评估论文，被多媒体顶会ACMMM录用；
 * 2023年7月20日，实验室一篇ITU国际标准通过for consent；
-* 2023年7月14日，实验室一篇图像色彩评估论文，被顶会ICCV录用；
+* 2023年7月14日，实验室一篇图像色彩评估论文，被计算机视觉顶会ICCV录用；
 * 2023年6月1日，实验室公费组织同学去环球影城游玩；
 
 ## 课题介绍
@@ -19,6 +20,7 @@
 
 ## 入门文章
 组内已投中顶会顶刊：
++ "EAT: An Enhancer for Aesthetics-Oriented Transformers.", [[pdf]](https://github.com/woshidandan/Image-Aesthetics-Assessment/blob/main/Paper_ID_847_EAT%20An%20Enhancer%20for%20Aesthetics-Oriented%20Transformers.pdf) [[code]](https://github.com/woshidandan/Image-Aesthetics-Assessment/tree/main) ACMMM2023, 多媒体顶会.
 + "Metadata for image aesthetics assessment with aesthetic attributes in mobile terminal computational photography system.", ITU国际标准, 国际三大标准组织之一.
 + "Delegate Transformer for Image Color Aesthetics Assessment.", [[pdf]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment/blob/main/Delegate%20Transformer%20for%20Image%20Color%20Aesthetics%20Assessment.pdf) [[code]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment) ICCV2023, 计算机视觉领域顶会.
 + "Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks.", [[pdf]](https://www.ijcai.org/proceedings/2022/0132.pdf) [[code]](https://github.com/woshidandan/TANet) IJCAI 2022, 人工智能领域顶会.
