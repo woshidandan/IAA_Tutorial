@@ -13,11 +13,6 @@
 ## 课题组现有成员
 目前在读学生为12人，构成比例为6本科生（包含准研究生）+5研究生+1博士生
 
-## 课题组合作公司
-* 传音手机公司
-* 小米
-* 中兴
-
 ## 入门文章
 组内已投中顶会顶刊：
 + "EAT: An Enhancer for Aesthetics-Oriented Transformers.", [[pdf]](https://github.com/woshidandan/Image-Aesthetics-Assessment/blob/main/Paper_ID_847_EAT%20An%20Enhancer%20for%20Aesthetics-Oriented%20Transformers.pdf) [[code]](https://github.com/woshidandan/Image-Aesthetics-Assessment/tree/main) ACMMM2023, 多媒体顶会.
