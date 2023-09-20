@@ -3,42 +3,44 @@
 
 # 北京邮电大学图像美学评估课题组
 - [最新动态](#最新动态)
-
-
+- [课题组介绍](#课题介绍)
+- [组内最新成果](#组内最新成果)
 
 ## 最新动态
-* 2023年7月26日，实验室一篇图像美学评估论文，被多媒体顶会ACMMM录用；
-* 2023年7月20日，实验室一篇ITU国际标准通过for consent；
-* 2023年7月14日，实验室一篇图像色彩评估论文，被计算机视觉顶会ICCV录用；
-* 2023年6月1日，实验室公费组织同学去环球影城游玩；
+- 2023年9月21日，课题组参加研鼎图像质量评估交流会
+- 2023年7月26日，实验室一篇图像美学评估论文，被多媒体顶会ACMMM录用；
+- 2023年7月20日，实验室一篇ITU国际标准通过for consent；
+- 2023年7月14日，实验室一篇图像色彩评估论文，被计算机视觉顶会ICCV录用；
+- 2023年6月1日，实验室公费组织同学去环球影城游玩；
 
 ## 课题介绍
 ![课题简介](https://github.com/woshidandan/IAA_Tutorial/assets/15050507/1ff2cf92-0555-418e-8d04-0c1588c480dd)
 
 ## 课题组现有成员
-目前在读学生为12人，构成比例为6本科生（包含准研究生）+5研究生+1博士生
+目前在读学生为18人，构成比例为9本科生（包含准研究生）+7研究生+2博士生
 
-## 入门文章
-组内已投中顶会顶刊：
-+ "EAT: An Enhancer for Aesthetics-Oriented Transformers.", [[pdf]](https://github.com/woshidandan/Image-Aesthetics-Assessment/blob/main/Paper_ID_847_EAT%20An%20Enhancer%20for%20Aesthetics-Oriented%20Transformers.pdf) [[code]](https://github.com/woshidandan/Image-Aesthetics-Assessment/tree/main) ACMMM2023, 多媒体顶会.
-+ "Metadata for image aesthetics assessment with aesthetic attributes in mobile terminal computational photography system.", ITU国际标准, 国际三大标准组织之一.
-+ "Delegate Transformer for Image Color Aesthetics Assessment.", [[pdf]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment/blob/main/Delegate%20Transformer%20for%20Image%20Color%20Aesthetics%20Assessment.pdf) [[code]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment) ICCV2023, 计算机视觉领域顶会.
-+ "Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks.", [[pdf]](https://www.ijcai.org/proceedings/2022/0132.pdf) [[code]](https://github.com/woshidandan/TANet) IJCAI 2022, 人工智能领域顶会.
-+ 在投4篇
+## 组内最新成果
+- "EAT: An Enhancer for Aesthetics-Oriented Transformers.", [[pdf]](https://github.com/woshidandan/Image-Aesthetics-Assessment/blob/main/Paper_ID_847_EAT%20An%20Enhancer%20for%20Aesthetics-Oriented%20Transformers.pdf) [[code]](https://github.com/woshidandan/Image-Aesthetics-Assessment/tree/main) ACMMM2023, 多媒体顶会.
+- "Metadata for image aesthetics assessment with aesthetic attributes in mobile terminal computational photography system.", ITU国际标准, 国际三大标准组织之一.
+- "Delegate Transformer for Image Color Aesthetics Assessment.", [[pdf]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment/blob/main/Delegate%20Transformer%20for%20Image%20Color%20Aesthetics%20Assessment.pdf) [[code]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment) ICCV2023, 计算机视觉领域顶会.
+- "Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks.", [[pdf]](https://www.ijcai.org/proceedings/2022/0132.pdf) [[code]](https://github.com/woshidandan/TANet) IJCAI 2022, 人工智能领域顶会.
+- 若干在投
 
-其它资料：
-+ "*图像美学质量评价调研报告.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/37307679)
-+ "*这些年，计算机美学的发展.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/91516029)
-+ Naila Murray, Luca Marchesotti, Florent Perronnin: "*AVA: A large-scale database for aesthetic visual analysis.*" CVPR (2012) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6247954)
-+ Hossein Talebi and Peyman Milanfar: "*NIMA: Neural image assessment.*" TIP (2018) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352823) [[code]](https://paperswithcode.com/paper/nima-neural-image-assessment#code)
-+ Aydın, Tunç Ozan, Aljoscha Smolic, and Markus Gross: "*Automated aesthetic analysis of photographic images.*" IEEE T VIS COMPUT GR (2014) [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.675.3491&rep=rep1&type=pdf).
+## 入门学习路线
 
-## 理论知识
-+ "*李宏毅机器学习课程.*" 哔哩哔哩 [[link]](https://www.bilibili.com/video/BV1JE411g7XF?from=search&seid=16114573361443816126)
+### 1. 文献阅读
+- "*图像美学质量评价调研报告.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/37307679)
+- "*这些年，计算机美学的发展.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/91516029)
+- Naila Murray, Luca Marchesotti, Florent Perronnin: "*AVA: A large-scale database for aesthetic visual analysis.*" CVPR (2012) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6247954)
+- Hossein Talebi and Peyman Milanfar: "*NIMA: Neural image assessment.*" TIP (2018) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352823) [[code]](https://paperswithcode.com/paper/nima-neural-image-assessment#code)
+- Aydın, Tunç Ozan, Aljoscha Smolic, and Markus Gross: "*Automated aesthetic analysis of photographic images.*" IEEE T VIS COMPUT GR (2014) [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.675.3491&rep=rep1&type=pdf).
 
-## 动手实践
-+ "*动手学深度学习(PyTorch版).*" GitHub [[link]](https://tangshusen.me/Dive-into-DL-PyTorch/#/)
-+ "*深度学习框架PyTorch：入门与实践.*" GitHub [[link]](https://github.com/chenyuntc/pytorch-book)
+### 2. 理论基础
+- 哔哩哔哩搜索："*李宏毅最新机器学习课程.*"  ❗只需看完线性回归，逻辑回归，梯度下降，卷积神经网络，Pytorch Tutorial，Attention和Transformer即可❗
+
+### 3. 动手实践
++ "*动手学深度学习(PyTorch版).*" GitHub [[link]](https://tangshusen.me/Dive-into-DL-PyTorch/#/) ❗只需看完第1, 2, 3, 4, 5, 7.1, 7.2, 7.3, 7.4, 7.5, 7.8, 9.1, 9.2, 9.12, 9.13, 10.11即可❗
++ "*深度学习框架PyTorch：入门与实践.*" GitHub [[link]](https://github.com/chenyuntc/pytorch-book) ❗可选学习内容❗
 
 ## 其它工具
 + "*Zotero.*" 论文整理工具 [[link]](https://www.zotero.org/)
