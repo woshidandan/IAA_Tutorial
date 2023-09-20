@@ -3,8 +3,12 @@
 
 # 北京邮电大学图像美学评估课题组
 - [最新动态](#最新动态)
-- [课题组介绍](#课题介绍)
-- [组内最新成果](#组内最新成果)
+- [课题介绍](#课题介绍)
+- [课题组成员](#课题组成员)
+- [最新成果](#最新成果)
+- [学习工具推荐](#学习工具推荐)
+- [组会安排](#组会安排)
+- [常见问题答疑](#常见问题答疑)
 
 ## 最新动态
 - 2023年9月21日，课题组参加研鼎图像质量评估交流会
@@ -16,10 +20,10 @@
 ## 课题介绍
 ![课题简介](https://github.com/woshidandan/IAA_Tutorial/assets/15050507/1ff2cf92-0555-418e-8d04-0c1588c480dd)
 
-## 课题组现有成员
+## 课题组成员
 目前在读学生为18人，构成比例为9本科生（包含准研究生）+7研究生+2博士生
 
-## 组内最新成果
+## 最新成果
 - "EAT: An Enhancer for Aesthetics-Oriented Transformers.", [[pdf]](https://github.com/woshidandan/Image-Aesthetics-Assessment/blob/main/Paper_ID_847_EAT%20An%20Enhancer%20for%20Aesthetics-Oriented%20Transformers.pdf) [[code]](https://github.com/woshidandan/Image-Aesthetics-Assessment/tree/main) ACMMM2023, 多媒体顶会.
 - "Metadata for image aesthetics assessment with aesthetic attributes in mobile terminal computational photography system.", ITU国际标准, 国际三大标准组织之一.
 - "Delegate Transformer for Image Color Aesthetics Assessment.", [[pdf]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment/blob/main/Delegate%20Transformer%20for%20Image%20Color%20Aesthetics%20Assessment.pdf) [[code]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment) ICCV2023, 计算机视觉领域顶会.
@@ -42,16 +46,24 @@
 + "*动手学深度学习(PyTorch版).*" GitHub [[link]](https://tangshusen.me/Dive-into-DL-PyTorch/#/) ❗只需看完第1, 2, 3, 4, 5, 7.1, 7.2, 7.3, 7.4, 7.5, 7.8, 9.1, 9.2, 9.12, 9.13, 10.11即可❗
 + "*深度学习框架PyTorch：入门与实践.*" GitHub [[link]](https://github.com/chenyuntc/pytorch-book) ❗可选学习内容❗
 
-## 其它工具
-+ "*Zotero.*" 论文整理工具 [[link]](https://www.zotero.org/)
+## 学习工具推荐
++ "*Zotero.*" 论文整理工具 [[link]](https://www.zotero.org/)，推荐安装[[Zotero GPT插件]](https://github.com/MuiseDestiny/zotero-gpt)
 + "*connectedpapers.*" 论文追溯工具 [[link]](https://www.connectedpapers.com/)
 + "*Paperswithcode.*" 论文代码查找工具 [[link]](https://paperswithcode.com/)
 + "*Google colab.*" 免费线上GPU平台，如额外需要线下服务器资源，请联系我本人 [[link]](https://colab.research.google.com/notebooks/intro.ipynb)
 
-## 组会和学习时间安排
-+ 每周组会安排：一次小组会，一次大组会。小组会无老师参加，博士师兄带队，主要分享上一周科研进度和论文阅读情况，准备两三页的PPT即可。大组会一般在周五，有老师参加，汇报当前的科研进度，每次由一位同学汇报，一般最多一个月轮一次，基本无压力。
+## 组会安排
++ 小组会：一般在每周末9:00附近，线上会议，无老师，所有组内同学参加，博士师兄和师姐带队，主要分享上一周科研进度和论文阅读情况，至多准备两三页的PPT即可（可选）
++ 大组会：一般在周五9:00附近，线上会议，实验室所有老师和同学参加，安排组内一位同学，汇报当前的科研进度，大概10页以上PPT，老师提出指导意见。一般每个同学最多一个半月轮到一次，基本无压力。PPT格式请参考[[链接]](https://github.com/woshidandan/IAA_Tutorial/tree/main/%E6%B1%87%E6%8A%A5PPT%E8%A6%81%E6%B1%82)
 + 组内同学学习时间要求：周一至周五白天，9:00-11:30，2:30-5:30，周日至周四晚上，7:30-10:00，该时间为组内成员正常在实验室学习时间，其余时间不做要求
 
+## 常见问题答疑
+- 实验室需要打卡吗？ 不需要打卡，无硬性要求，但希望你能在以下时间保持在线：周一至周五白天，9:00-11:30，2:30-5:30，周日至周四晚上，7:30-10:00，其余时间不做要求。
+- 实验室的研究生可以实习吗？ 可以，一般在研二下学期的暑假，会放你们出去实习，但前期是你的科研有进展，不能一片空白导致研究生开题有问题。
+- 我是一个本科生，我来实验室实习能获得什么？ 参与顶会（目前有三位实习的本科生，因参与几篇顶会的挂名，套磁到国外直博和读研的资格），参与项目（有兴趣的同学，会安排跟进组内的CV类项目，有工资），名额推荐（可以获得实验室老师的推荐信），留在实验室（表现优秀积极的同学，当然可以留在实验室读研或读博）。
+- 实验室硕士的毕业要求是什么？老师会卡毕业吗？ 不会卡毕业，原则上学硕毕业要求一篇与顶会顶刊相当的工作（投不中没关系，但你工作的规模，得够得上顶会，没有功劳也有苦劳），专硕论文不做要求，目前组内所有同学都正常毕业。
+- 实验室毕业的硕士都去哪了？ 有去清北等高校读博的，还有去头部BAT工作的，还有去国安局等一些国企央企工作的。
+- 我能获得老师的指导吗？ 可以，平时老师和博士生会亲自指导论文写作和科研方向，手把手教学。
 
 
 https://user-images.githubusercontent.com/15050507/161776631-2b5948f3-97b6-4419-b0b3-efa5308eb116.mp4
