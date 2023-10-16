@@ -38,6 +38,7 @@
 - 实验结果符合预期，开始参与论文写作，或负责论文写作。（组内几位本科实习的同学，平均会在6个月左右，开始有成果产出）
 
 ### 2. 文献阅读
+- "*绘画艺术图像的计算美学.*" pdf [[link]](https://github.com/woshidandan/IAA_Tutorial/blob/main/%E7%BB%98%E7%94%BB%E8%89%BA%E6%9C%AF%E5%9B%BE%E5%83%8F%E7%9A%84%E8%AE%A1%E7%AE%97%E7%BE%8E%E5%AD%A6.pdf)
 - "*图像美学质量评价调研报告.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/37307679)
 - "*这些年，计算机美学的发展.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/91516029)
 - Naila Murray, Luca Marchesotti, Florent Perronnin: "*AVA: A large-scale database for aesthetic visual analysis.*" CVPR (2012) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6247954)
