@@ -97,24 +97,3 @@ https://user-images.githubusercontent.com/15050507/161776631-2b5948f3-97b6-4419-
 
 https://user-images.githubusercontent.com/15050507/161776648-11426f17-8ef1-43ac-9a8a-5782cb32b2e2.mp4
 
-
-## 部分常用数据集
---------------
-各类美学数据集大全，[点击链接](https://grappaproject.eu/databases/image_datasets/)
-
-| 数据集名称  | 数据集描述  | 数据集规模    |   作用   | 链接|
-| :-----------: | :--------: | :--------: | :--------: | :--------: |
-| AVA★★★★★     |     人类对于图片进行1-10分的打分      |      255,500张图像    |      训练基础的美学模型     |     [链接](https://github.com/mtobeiyf/ava_downloader?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
-| DPChallenge.com     |     人类对于图片进行1-10分的打分      |      16,509张图像    |      训练基础的美学模型     |      [链接](https://ritendra.weebly.com/aesthetics-datasets.html?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
-| photo.net     |     人类对于图片进行1-10分的打分      |      20,278张图像    |      训练基础的美学模型     |      [链接](https://ritendra.weebly.com/aesthetics-datasets.html?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
-| TID2013★★★★★     |     人类对于多种处理后的失真图片进行1-10打分      |      25×24张照片，25张参考图像，24个失真类型    |      美学因素，图像质量客观评价因素     |      [链接 提取码: 9oc4](https://pan.baidu.com/s/1oj7tRDppmHV8DeCEuJNcJg)     |
-| LIVE 提取码: g2sh  解压密码为：livedatabase2005  |     人类对于多种处理后的失真图片进行1-10打分      |      29×5张照片，29张参考图像，5个失真类型    |      美学因素，图像质量客观评价因素     |      [链接](https://pan.baidu.com/s/1gVcaWpIX9m8zER4XeWow9g)     |
-| MLIVE     |     人类对于多种处理后的失真图片进行1-10打分      |      15×15张照片，15张参考图像，15个失真类型    |      美学因素，图像质量客观评价因素     |      [链接](http://live.ece.utexas.edu/research/quality/live_multidistortedimage.html?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
-| WATERLOO     |     人类对于多种处理后的失真图片进行1-10打分      |      4744张参考图像, 20个失真类型    |      美学因素，图像质量客观评价因素     |      [链接](https://ece.uwaterloo.ca/~k29ma/exploration/?spm=a2c6h.12873639.0.0.7707199420mLYv)     |
-| flickr★★★★★     |     很多摄像师拍的照片，还附有相机参数和一些关键字评论      |      无数张？可以自己爬下来    |      美学因素，图像质量客观评价因素     |      [链接](https://www.flickr.com/)     |
-| AADB★★★ | 包含11种摄影属性,5个人的平均评分 | 10000张图像 ,  8500 张训练，500 验证，1000 测试 | 评价美学维度 | [链接](https://drive.google.com/open?id=1Viswtzb77vqqaaICAQz9iuZ8OEYCu6-_) |
-| PCCD | 有人对图像的评论和7个维度的评分 | 4,235张照片，29,645评论 | 评价美学维度、美学因素 | [链接](https://drive.google.com/file/d/12Xk-GVM4XA-Gy096nbzxQQNNXB_X7bJ4/view) |
-| DPC- Captions | 5个维度的评分 | 154,384 images and 2,427,483 comments | 评价美学维度、美学因素 | 链接？ |
-| KonIQ-10k★★★ | 包含总分、Brightness、Colorfulness、Contrast、Sharpness | 10,073张图像 | 评价美学维度 | [链接](http://database.mmsp-kn.de/koniq-10k-database.html) |
-| CUHKPQ | 只包含好照片和不好照片，但是细分为动物，建筑等很多类 | 28,410张图像 | 评价美学维度 | [链接](http://mmlab.ie.cuhk.edu.hk/archive/CUHKPQ/Dataset.htm) |
-| TAD66K | 自建数据集，按主题标注，分为47个主题 | 66,000张左右的图像 | 整体美学评分 | [链接](https://drive.google.com/drive/folders/1b2D9LeeG5XZzhEa8ldnIZjGh0IHadHhU) |
