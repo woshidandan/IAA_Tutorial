@@ -9,7 +9,9 @@
 - [常见问题答疑](#常见问题答疑)
 
 ## 最新动态
-- 2023年9月21日，课题组参加研鼎图像质量评估交流会
+- 2024年3月25日，课题组在CVPR NTIRE AIGC质量评估赛道1获得冠军，赛道2获得第5，在VQA赛道获得第9
+- 2024年3月12日，课题组受邀参观正印公司；
+- 2023年9月21日，课题组参加研鼎图像质量评估交流会；
 - 2023年7月26日，实验室一篇图像美学评估论文，被多媒体顶会ACMMM录用；
 - 2023年7月20日，实验室一篇ITU国际标准通过for consent；
 - 2023年7月14日，实验室一篇图像色彩评估论文，被计算机视觉顶会ICCV录用；
@@ -19,7 +21,7 @@
 ![课题简介](https://github.com/woshidandan/IAA_Tutorial/assets/15050507/1ff2cf92-0555-418e-8d04-0c1588c480dd)
 
 ## 课题组成员
-目前在读学生为18人，构成比例为9本科生（包含准研究生）+7研究生+2博士生
+目前在读学生为27人，构成比例为9本科生（包含准研究生）+15研究生+3博士生
 
 ## 最新成果
 - "EAT: An Enhancer for Aesthetics-Oriented Transformers.", [[pdf]](https://github.com/woshidandan/Image-Aesthetics-Assessment/blob/main/Paper_ID_847_EAT%20An%20Enhancer%20for%20Aesthetics-Oriented%20Transformers.pdf) [[code]](https://github.com/woshidandan/Image-Aesthetics-Assessment/tree/main) ACMMM2023, 多媒体顶会.
