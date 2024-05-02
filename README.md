@@ -9,6 +9,7 @@
 - [常见问题答疑](#常见问题答疑)
 
 ## 最新动态
+- 2024年5月2日，课题组美学一篇论文被机器学习顶会ICML录用；
 - 2024年4月17日，课题组计算摄影+美学两篇论文被人工智能顶会IJCAI录用；
 - 2024年3月25日，课题组在CVPR NTIRE AIGC质量评估赛道1获得冠军，赛道2获得第5，在VQA赛道获得第9；
 - 2024年3月12日，课题组受邀参观正印公司；
@@ -25,6 +26,7 @@
 目前在读学生为27人，构成比例为9本科生（包含准研究生）+15研究生+3博士生
 
 ## 最新成果
+- "ELTA: An Enhancer against Long-Tail for Aesthetics-oriented Models.", ICML 2024, 机器学习顶会.
 - "M2Beats: When Motion Meets Beats in Short-form Videos.", IJCAI 2024, 人工智能领域顶会.
 - "AK4Prompts: Automatically Keywords-Ranking Guided by Aesthetics for Prompts in Text-To-Image Models.", IJCAI 2024, 人工智能领域顶会.
 - "EAT: An Enhancer for Aesthetics-Oriented Transformers.", [[pdf]](https://github.com/woshidandan/Image-Aesthetics-Assessment/blob/main/Paper_ID_847_EAT%20An%20Enhancer%20for%20Aesthetics-Oriented%20Transformers.pdf) [[code]](https://github.com/woshidandan/Image-Aesthetics-Assessment/tree/main) ACMMM2023, 多媒体顶会.
