@@ -9,6 +9,9 @@
 - [常见问题答疑](#常见问题答疑)
 
 ## 最新动态
+- 2024年11月16日，实验室何帅博士的毕业论文《可解释性美学评估》被评为北邮优秀毕业论文；
+- 2024年10月6日，实验室一篇图像美学评估论文，被机器学习顶会NIPS2024录用；
+- 2024年9月6日，实验室一篇图像美学评估论文，被信息融合顶刊INFFUS录用；
 - 2024年7月16日，实验室一篇图像美学评估论文，被多媒体顶会ACMMM2024录用；
 - 2024年6月7日，实验室公费组织同学去北京野生动物园团建；
 - 2024年5月2日，课题组美学一篇论文被机器学习顶会ICML录用；
@@ -28,14 +31,78 @@
 目前在读学生为27人，构成比例为9本科生（包含准研究生）+15研究生+3博士生
 
 ## 最新成果
-- "ELTA: An Enhancer against Long-Tail for Aesthetics-oriented Models.", ICML 2024, 机器学习顶会.
-- "M2Beats: When Motion Meets Beats in Short-form Videos.", IJCAI 2024, 人工智能领域顶会.
-- "AK4Prompts: Automatically Keywords-Ranking Guided by Aesthetics for Prompts in Text-To-Image Models.", IJCAI 2024, 人工智能领域顶会.
-- "EAT: An Enhancer for Aesthetics-Oriented Transformers.", [[pdf]](https://github.com/woshidandan/Image-Aesthetics-Assessment/blob/main/Paper_ID_847_EAT%20An%20Enhancer%20for%20Aesthetics-Oriented%20Transformers.pdf) [[code]](https://github.com/woshidandan/Image-Aesthetics-Assessment/tree/main) ACMMM2023, 多媒体顶会.
-- "Metadata for image aesthetics assessment with aesthetic attributes in mobile terminal computational photography system.", ITU国际标准, 国际三大标准组织之一.
-- "Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks.", [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Thinking_Image_Color_Aesthetics_Assessment_Models_Datasets_and_Benchmarks_ICCV_2023_paper.pdf) [[code]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment) ICCV2023, 计算机视觉领域顶会.
-- "Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks.", [[pdf]](https://www.ijcai.org/proceedings/2022/0132.pdf) [[code]](https://github.com/woshidandan/TANet) IJCAI 2022, 人工智能领域顶会.
-- 若干在投
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 Projects</b></td>
+      <td><b>📚 Publication</b></td>
+      <td><b>🌈 Content</b></td>
+      <td><b>⭐ Stars</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/woshidandan/Pixel-level-No-reference-Image-Exposure-Assessment"><b>Pixel-level image exposure assessment【首个像素级曝光评估】</b></a></td>
+      <td><b>NIPS 2024</b></td>
+      <td><b>Code, Dataset</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Pixel-level-No-reference-Image-Exposure-Assessment?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/woshidandan/Long-Tail-image-aesthetics-and-quality-assessment"><b>Long-tail solution for image aesthetics assessment【美学评估数据不平衡解决方案】</b></a></td>
+      <td><b>ICML 2024</b></td>
+      <td><b>Code</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Long-Tail-image-aesthetics-and-quality-assessment?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/woshidandan/Prompt-DeT"><b>CLIP-based image aesthetics assessment【基于CLIP多因素色彩美学评估】</b></a></td>
+      <td><b>Information Fusion 2024</b></td>
+      <td><b>Code, Dataset</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Prompt-DeT?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/woshidandan/SR-IAA-image-aesthetics-and-quality-assessment"><b>Compare-based image aesthetics assessment【基于对比学习的多因素美学评估】</b></a></td>
+      <td><b>ACMMM 2024</b></td>
+      <td><b>Code</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/SR-IAA-image-aesthetics-and-quality-assessment?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/woshidandan/Image-Color-Aesthetics-and-Quality-Assessment"><b>Image color aesthetics assessment【首个色彩美学评估】</b></a></td>
+      <td><b>ICCV 2023</b></td>
+      <td><b>Code, Dataset</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Image-Color-Aesthetics-and-Quality-Assessment?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/woshidandan/Image-Aesthetics-and-Quality-Assessment"><b>Image aesthetics assessment【通用美学评估】</b></a></td>
+      <td><b>ACMMM 2023</b></td>
+      <td><b>Code</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Image-Aesthetics-and-Quality-Assessment?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/woshidandan/TANet-image-aesthetics-and-quality-assessment"><b>Theme-oriented image aesthetics assessment【首个多主题美学评估】</b></a></td>
+      <td><b>IJCAI 2022</b></td>
+      <td><b>Code, Dataset</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/TANet-image-aesthetics-and-quality-assessment?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/woshidandan/AK4Prompts"><b>Select prompt based on image aesthetics assessment【基于美学评估的提示词筛选】</b></a></td>
+      <td><b>IJCAI 2024</b></td>
+      <td><b>Code</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/AK4Prompts?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mRobotit/M2Beats"><b>Motion rhythm synchronization with beats【动作与韵律对齐】</b></a></td>
+      <td><b>IJCAI 2024</b></td>
+      <td><b>Code, Dataset</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mRobotit/M2Beats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/woshidandan/Champion-Solution-for-CVPR-NTIRE-2024-Quality-Assessment-on-AIGC"><b>Champion Solution for AIGC Image Quality Assessment【NTIRE AIGC图像质量评估赛道冠军】</b></a></td>
+      <td><b>CVPRW NTIRE 2024</b></td>
+      <td><b>Code</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Champion-Solution-for-CVPR-NTIRE-2024-Quality-Assessment-on-AIGC?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 入门学习（正式加入课题组后，会有更完整的学习资料）
 
