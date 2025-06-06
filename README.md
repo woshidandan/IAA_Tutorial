@@ -9,6 +9,7 @@
 - [常见问题答疑](#常见问题答疑)
 
 ## 最新动态
+- 2025年6月4日，实验室组织同学真人cs烧烤团建；
 - 2025年5月21日，实验室受邀参加正印科技图像质量技术研讨会；
 - 2025年5月10日，实验室受邀参加中国图像图形大会视觉质量感知与评估前沿论坛；
 - 2025年2月27日，实验室一篇图像美学评估论文，被计算机视觉顶会CVPR2025（Highlight）录用；
@@ -16,7 +17,7 @@
 - 2024年10月6日，实验室一篇图像美学评估论文，被机器学习顶会NIPS2024录用；
 - 2024年9月6日，实验室一篇图像美学评估论文，被信息融合顶刊INFFUS录用；
 - 2024年7月16日，实验室一篇图像美学评估论文，被多媒体顶会ACMMM2024录用；
-- 2024年6月7日，实验室公费组织同学去北京野生动物园团建；
+- 2024年6月7日，实验室组织同学去北京野生动物园团建；
 - 2024年5月2日，课题组美学一篇论文被机器学习顶会ICML录用；
 - 2024年4月17日，课题组计算摄影+美学两篇论文被人工智能顶会IJCAI录用；
 - 2024年3月25日，课题组在CVPR NTIRE AIGC质量评估赛道1获得冠军，赛道2获得第5，在VQA赛道获得第9；
@@ -25,13 +26,13 @@
 - 2023年7月26日，实验室一篇图像美学评估论文，被多媒体顶会ACMMM2023录用；
 - 2023年7月20日，实验室一篇ITU国际标准通过for consent；
 - 2023年7月14日，实验室一篇图像色彩评估论文，被计算机视觉顶会ICCV录用；
-- 2023年6月1日，实验室公费组织同学去环球影城游玩；
+- 2023年6月1日，实验室组织同学去环球影城游玩；
 
 ## 课题介绍
 ![课题简介](https://github.com/woshidandan/IAA_Tutorial/assets/15050507/1ff2cf92-0555-418e-8d04-0c1588c480dd)
 
-## 课题组成员
-目前在读学生为27人，构成比例为9本科生（包含准研究生）+15研究生+3博士生
+## 美学组成员
+目前在读学生为28人，构成比例为9本科生（包含准研究生）+15研究生+3博士生+1博后
 
 ## 最新成果
 <table>
@@ -44,6 +45,12 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/woshidandan/Rethinking-Personalized-Aesthetics-Assessment"><b>Personalized Aesthetics Assessment【个性化美学评估新范式】</b></a></td>
+      <td><b>CVPR 2025</b></td>
+      <td><b>Code, Dataset</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Rethinking-Personalized-Aesthetics-Assessment?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/woshidandan/Pixel-level-No-reference-Image-Exposure-Assessment"><b>Pixel-level image exposure assessment【首个像素级曝光评估】</b></a></td>
       <td><b>NIPS 2024</b></td>
