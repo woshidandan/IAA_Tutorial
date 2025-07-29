@@ -9,6 +9,7 @@
 - [常见问题答疑](#常见问题答疑)
 
 ## 最新动态
+- 2025年7月28日，实验室一篇图像美学评估论文，被图像处理顶刊TIP录用；
 - 2025年6月4日，实验室组织同学真人cs烧烤团建；
 - 2025年5月21日，实验室受邀参加正印科技图像质量技术研讨会；
 - 2025年5月10日，实验室受邀参加中国图像图形大会视觉质量感知与评估前沿论坛；
@@ -45,6 +46,12 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/woshidandan/Attacker-against-image-aesthetics-assessment-model"><b>Attacker Against IAA Model【美学模型的攻击和安全评估框架】</b></a></td>
+      <td><b>TIP 2025</b></td>
+      <td><b>Code, Dataset</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Attacker-against-image-aesthetics-assessment-model?style=flat-square&labelColor=343b41"/></td>
+    </tr
     <tr>
       <td><a href="https://github.com/woshidandan/Rethinking-Personalized-Aesthetics-Assessment"><b>Personalized Aesthetics Assessment【个性化美学评估新范式】</b></a></td>
       <td><b>CVPR 2025</b></td>
