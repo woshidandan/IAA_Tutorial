@@ -133,6 +133,7 @@
 - "*绘画艺术图像的计算美学.*" pdf [[link]](https://github.com/woshidandan/IAA_Tutorial/blob/main/%E7%BB%98%E7%94%BB%E8%89%BA%E6%9C%AF%E5%9B%BE%E5%83%8F%E7%9A%84%E8%AE%A1%E7%AE%97%E7%BE%8E%E5%AD%A6.pdf)
 - "*图像美学质量评价调研报告.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/37307679)
 - "*这些年，计算机美学的发展.*" 知乎 [[link]](https://zhuanlan.zhihu.com/p/91516029)
+- Zhang, Zicheng, et al. "Quality assessment in the era of large models: A survey." ACM Transactions on Multimedia Computing, Communications and Applications 21.7 (2025): 1-31. [[pdf]](https://arxiv.org/pdf/2409.00031?)
 - Naila Murray, Luca Marchesotti, Florent Perronnin: "*AVA: A large-scale database for aesthetic visual analysis.*" CVPR (2012) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6247954)
 - Hossein Talebi and Peyman Milanfar: "*NIMA: Neural image assessment.*" TIP (2018) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352823) [[code]](https://paperswithcode.com/paper/nima-neural-image-assessment#code)
 - Aydın, Tunç Ozan, Aljoscha Smolic, and Markus Gross: "*Automated aesthetic analysis of photographic images.*" IEEE T VIS COMPUT GR (2014) [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.675.3491&rep=rep1&type=pdf).
